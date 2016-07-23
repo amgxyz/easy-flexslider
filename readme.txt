@@ -17,11 +17,11 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Add FontAwesome css icons to your site.
+Adds support for Flexslider to your site.
 
 == Description ==
 
-Add FontAwesome css icons to your site.
+Adds support for Flexslider to your site.
 
 
 
